@@ -1,0 +1,21 @@
+item.paysafecard.name=PaySafeCard 
+item.magma_ingots.name=Magma Ingot
+item.fluorites_ingots.name=Fluorites Ingot
+item.expandiume_ingots.name=Expandium Ingot
+
+item.helmet_fluorites.name= Fluorites Helmet
+item.chestPlate_fluorites.name= Fluorites ChestPlate
+item.leggings_fluorites.name= Fluorites Leggings
+item.boots_fluortites.name= Fluorites Boots
+item.helmet_expandium.name= expandium Helmet
+item.ChestPlate_expandium.name= expandium ChestPlate
+item.leggings_expandium.name= expandium leggings
+item.leggings_expandium.name= expandium Boots
+
+tile.magma_ores.name=Magma Ore
+tile.fluorites_ores.name=Fluorites Ore
+tile.expandiume_ores.name=Expandium Ore
+
+tile.dark_prismarine.name=Dark Prismarine
+tile.prismarine.name=Prismarine
+tile.prismarine_bricks.name=Prismarine Bricks 
